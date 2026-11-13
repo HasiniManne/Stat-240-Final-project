@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Project Description
 - Meeting time: 
-- We are using iMessage to communicate with each other, and we plan to use GitHub to share our documents.
+- We are using iMessage to communicate with each other, and we are using GitHub to share our documents.
 
 ## Questions of Interests
 We want to find out if the actual proportion of red M&Ms in a pack of M&Ms aligns with the theoretical proportion of red M&Ms given by the M&M company. 
