@@ -9,7 +9,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ## Project Description
-- Meeting time: 
+- Meeting time: Tuesday/Wednesday at 5pm
 - We are using iMessage to communicate with each other, and we are using GitHub to share our documents.
 
 ## Questions of Interests
